@@ -25,7 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # Achievement
-정보처리기사
-오픽IH
-IoT 가전 프로젝트 경진대회 장려상
-LG CNS AM CAMP 1기 
+정보처리기사  
+오픽 IH  
+IoT 가전 프로젝트 경진대회 장려상  
+LG CNS AM CAMP 1기
+
