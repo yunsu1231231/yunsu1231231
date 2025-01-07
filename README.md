@@ -1,11 +1,9 @@
 # 조윤수
 
-# Projects 
-| [Home Workout App](https://github.com/yunsu1231231/capstone_final_back) | 더 나은 홈트레이닝을 위한 운동 어플리케이션입니다. 백엔드 개발을 맡았습니다 | Node.js       |  
-
 # 과제 
 | [Mini_OS](https://github.com/yunsu1231231/Mini_OS)    |                                         | C                     |  
 | [Software_Project](https://github.com/yunsu1231231/Software-Engineering-Project)    |                                        | Python                   |  
+| [Home Workout App](https://github.com/yunsu1231231/capstone_final_back) | 더 나은 홈트레이닝을 위한 운동 어플리케이션입니다. 백엔드 개발을 맡았습니다 | Node.js       |  
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=millercho)](https://solved.ac/millercho/)
