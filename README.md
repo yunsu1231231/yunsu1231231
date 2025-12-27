@@ -3,9 +3,7 @@
 꾸준히 공부하는 개발자 **조윤수**입니다.  
 
 📌 [Velog 블로그](https://velog.io/@millercho/posts)  
-📌 [Solved.ac 프로필](https://solved.ac/millercho/)  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=millercho)](https://solved.ac/millercho/)
 
 ---
 
@@ -47,6 +45,7 @@
 - **LG CNS AM CAMP 1기 수료** (2024.12.20 ~ 2025.06.26)  
 - **University MakeUs Challenge 7기** (2024.09.16 ~ 2025.02.21)  
 - **동국대 IoT 경진대회 장려상** (2024.06.13)  
-- **LG CNS KDT 최종 프로젝트 우수상** (2025.06.26)  
+- **LG CNS KDT 최종 프로젝트 우수상** (2025.06.26)
+- **IBK 기업은행 인턴** (2026.01.06 ~ ) 
 
 ---
